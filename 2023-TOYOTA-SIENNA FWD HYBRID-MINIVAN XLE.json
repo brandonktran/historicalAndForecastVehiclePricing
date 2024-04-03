@@ -1,0 +1,1062 @@
+[
+  {
+    "date": "2024-03-25",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 41009,
+    "miles": 21100,
+    "dev": 1788
+  },
+  {
+    "date": "2024-04-01",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 40816,
+    "miles": 21400,
+    "dev": 1788
+  },
+  {
+    "date": "2024-04-08",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 40625,
+    "miles": 21700,
+    "dev": 1788
+  },
+  {
+    "date": "2024-04-15",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 40436,
+    "miles": 22000,
+    "dev": 1788
+  },
+  {
+    "date": "2024-04-22",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 40250,
+    "miles": 22300,
+    "dev": 1788
+  },
+  {
+    "date": "2024-04-29",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 40065,
+    "miles": 22600,
+    "dev": 1788
+  },
+  {
+    "date": "2024-05-06",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 39882,
+    "miles": 22900,
+    "dev": 1788
+  },
+  {
+    "date": "2024-05-13",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 39699,
+    "miles": 23200,
+    "dev": 1788
+  },
+  {
+    "date": "2024-05-20",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 39516,
+    "miles": 23500,
+    "dev": 1788
+  },
+  {
+    "date": "2024-05-27",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 39333,
+    "miles": 23900,
+    "dev": 1788
+  },
+  {
+    "date": "2024-06-03",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 39149,
+    "miles": 24200,
+    "dev": 1788
+  },
+  {
+    "date": "2024-06-10",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38962,
+    "miles": 24500,
+    "dev": 1788
+  },
+  {
+    "date": "2024-06-17",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38773,
+    "miles": 24800,
+    "dev": 1788
+  },
+  {
+    "date": "2024-06-24",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38581,
+    "miles": 25100,
+    "dev": 1788
+  },
+  {
+    "date": "2024-07-01",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38387,
+    "miles": 25400,
+    "dev": 1788
+  },
+  {
+    "date": "2024-07-08",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38190,
+    "miles": 25700,
+    "dev": 1788
+  },
+  {
+    "date": "2024-07-15",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37996,
+    "miles": 26000,
+    "dev": 1788
+  },
+  {
+    "date": "2024-07-22",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37808,
+    "miles": 26300,
+    "dev": 1788
+  },
+  {
+    "date": "2024-07-29",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37638,
+    "miles": 26600,
+    "dev": 1788
+  },
+  {
+    "date": "2024-08-05",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37490,
+    "miles": 26900,
+    "dev": 1788
+  },
+  {
+    "date": "2024-08-12",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37296,
+    "miles": 27200,
+    "dev": 1788
+  },
+  {
+    "date": "2024-08-19",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37073,
+    "miles": 27500,
+    "dev": 1788
+  },
+  {
+    "date": "2024-08-26",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36809,
+    "miles": 27800,
+    "dev": 1788
+  },
+  {
+    "date": "2024-09-02",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36484,
+    "miles": 28100,
+    "dev": 1788
+  },
+  {
+    "date": "2024-09-09",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36084,
+    "miles": 28400,
+    "dev": 1788
+  },
+  {
+    "date": "2024-09-16",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36330,
+    "miles": 28700,
+    "dev": 1788
+  },
+  {
+    "date": "2024-09-23",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36562,
+    "miles": 29000,
+    "dev": 1788
+  },
+  {
+    "date": "2024-09-30",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36780,
+    "miles": 29300,
+    "dev": 1788
+  },
+  {
+    "date": "2024-10-07",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36983,
+    "miles": 29600,
+    "dev": 1788
+  },
+  {
+    "date": "2024-10-14",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37173,
+    "miles": 29900,
+    "dev": 1788
+  },
+  {
+    "date": "2024-10-21",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37349,
+    "miles": 30200,
+    "dev": 1788
+  },
+  {
+    "date": "2024-10-28",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37510,
+    "miles": 30500,
+    "dev": 1788
+  },
+  {
+    "date": "2024-11-04",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37659,
+    "miles": 30800,
+    "dev": 1788
+  },
+  {
+    "date": "2024-11-11",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37793,
+    "miles": 31100,
+    "dev": 1788
+  },
+  {
+    "date": "2024-11-18",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37914,
+    "miles": 31500,
+    "dev": 1788
+  },
+  {
+    "date": "2024-11-25",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38022,
+    "miles": 31800,
+    "dev": 1788
+  },
+  {
+    "date": "2024-12-02",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38117,
+    "miles": 32100,
+    "dev": 1788
+  },
+  {
+    "date": "2024-12-09",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38198,
+    "miles": 32400,
+    "dev": 1788
+  },
+  {
+    "date": "2024-12-16",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38267,
+    "miles": 32700,
+    "dev": 1788
+  },
+  {
+    "date": "2024-12-23",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38322,
+    "miles": 33000,
+    "dev": 1788
+  },
+  {
+    "date": "2024-12-30",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38364,
+    "miles": 33300,
+    "dev": 1788
+  },
+  {
+    "date": "2025-01-06",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38394,
+    "miles": 33600,
+    "dev": 1788
+  },
+  {
+    "date": "2025-01-13",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38411,
+    "miles": 33900,
+    "dev": 1788
+  },
+  {
+    "date": "2025-01-20",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38416,
+    "miles": 34200,
+    "dev": 1788
+  },
+  {
+    "date": "2025-01-27",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38408,
+    "miles": 34500,
+    "dev": 1788
+  },
+  {
+    "date": "2025-02-03",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38388,
+    "miles": 34800,
+    "dev": 1788
+  },
+  {
+    "date": "2025-02-10",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38355,
+    "miles": 35100,
+    "dev": 1788
+  },
+  {
+    "date": "2025-02-17",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38311,
+    "miles": 35400,
+    "dev": 1788
+  },
+  {
+    "date": "2025-02-24",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38254,
+    "miles": 35700,
+    "dev": 1788
+  },
+  {
+    "date": "2025-03-03",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38186,
+    "miles": 36000,
+    "dev": 1788
+  },
+  {
+    "date": "2025-03-10",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38105,
+    "miles": 36300,
+    "dev": 1788
+  },
+  {
+    "date": "2025-03-17",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 38013,
+    "miles": 36600,
+    "dev": 1788
+  },
+  {
+    "date": "2025-03-24",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37910,
+    "miles": 36900,
+    "dev": 1788
+  },
+  {
+    "date": "2025-03-31",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37794,
+    "miles": 37200,
+    "dev": 1788
+  },
+  {
+    "date": "2025-04-07",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37668,
+    "miles": 37500,
+    "dev": 1788
+  },
+  {
+    "date": "2025-04-14",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37530,
+    "miles": 37800,
+    "dev": 1788
+  },
+  {
+    "date": "2025-04-21",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37381,
+    "miles": 38100,
+    "dev": 1788
+  },
+  {
+    "date": "2025-04-28",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37221,
+    "miles": 38400,
+    "dev": 1788
+  },
+  {
+    "date": "2025-05-05",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 37049,
+    "miles": 38700,
+    "dev": 1788
+  },
+  {
+    "date": "2025-05-12",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36867,
+    "miles": 39100,
+    "dev": 1788
+  },
+  {
+    "date": "2025-05-19",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36674,
+    "miles": 39400,
+    "dev": 1788
+  },
+  {
+    "date": "2025-05-26",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36471,
+    "miles": 39700,
+    "dev": 1788
+  },
+  {
+    "date": "2025-06-02",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36256,
+    "miles": 40000,
+    "dev": 1788
+  },
+  {
+    "date": "2025-06-09",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 36032,
+    "miles": 40300,
+    "dev": 1788
+  },
+  {
+    "date": "2025-06-16",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 35796,
+    "miles": 40600,
+    "dev": 1788
+  },
+  {
+    "date": "2025-06-23",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 35551,
+    "miles": 40900,
+    "dev": 1788
+  },
+  {
+    "date": "2025-06-30",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 35296,
+    "miles": 41200,
+    "dev": 1788
+  },
+  {
+    "date": "2025-07-07",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 35030,
+    "miles": 41500,
+    "dev": 1788
+  },
+  {
+    "date": "2025-07-14",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 34754,
+    "miles": 41800,
+    "dev": 1788
+  },
+  {
+    "date": "2025-07-21",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 34469,
+    "miles": 42100,
+    "dev": 1788
+  },
+  {
+    "date": "2025-07-28",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 34173,
+    "miles": 42400,
+    "dev": 1788
+  },
+  {
+    "date": "2025-08-04",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 33869,
+    "miles": 42700,
+    "dev": 1788
+  },
+  {
+    "date": "2025-08-11",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 33554,
+    "miles": 43000,
+    "dev": 1788
+  },
+  {
+    "date": "2025-08-18",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 33230,
+    "miles": 43300,
+    "dev": 1788
+  },
+  {
+    "date": "2025-08-25",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 32897,
+    "miles": 43600,
+    "dev": 1788
+  },
+  {
+    "date": "2025-09-01",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 32554,
+    "miles": 43900,
+    "dev": 1788
+  },
+  {
+    "date": "2025-09-08",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 32202,
+    "miles": 44200,
+    "dev": 1788
+  },
+  {
+    "date": "2025-09-15",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 31842,
+    "miles": 44500,
+    "dev": 1788
+  },
+  {
+    "date": "2025-09-22",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 31472,
+    "miles": 44800,
+    "dev": 1788
+  },
+  {
+    "date": "2025-09-29",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 31093,
+    "miles": 45100,
+    "dev": 1788
+  },
+  {
+    "date": "2025-10-06",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 30706,
+    "miles": 45400,
+    "dev": 1788
+  },
+  {
+    "date": "2025-10-13",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 30310,
+    "miles": 45700,
+    "dev": 1788
+  },
+  {
+    "date": "2025-10-20",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 29905,
+    "miles": 46000,
+    "dev": 1788
+  },
+  {
+    "date": "2025-10-27",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 29492,
+    "miles": 46300,
+    "dev": 1788
+  },
+  {
+    "date": "2025-11-03",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 29071,
+    "miles": 46700,
+    "dev": 1788
+  },
+  {
+    "date": "2025-11-10",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 28642,
+    "miles": 47000,
+    "dev": 1788
+  },
+  {
+    "date": "2025-11-17",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 28204,
+    "miles": 47300,
+    "dev": 1788
+  },
+  {
+    "date": "2025-11-24",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 27758,
+    "miles": 47600,
+    "dev": 1788
+  },
+  {
+    "date": "2025-12-01",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 27305,
+    "miles": 47900,
+    "dev": 1788
+  },
+  {
+    "date": "2025-12-08",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 26843,
+    "miles": 48200,
+    "dev": 1788
+  },
+  {
+    "date": "2025-12-15",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 26374,
+    "miles": 48500,
+    "dev": 1788
+  },
+  {
+    "date": "2025-12-22",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 25897,
+    "miles": 48800,
+    "dev": 1788
+  },
+  {
+    "date": "2025-12-29",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 25413,
+    "miles": 49100,
+    "dev": 1788
+  },
+  {
+    "date": "2026-01-05",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 24921,
+    "miles": 49400,
+    "dev": 1788
+  },
+  {
+    "date": "2026-01-12",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 24422,
+    "miles": 49700,
+    "dev": 1788
+  },
+  {
+    "date": "2026-01-19",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 23916,
+    "miles": 50000,
+    "dev": 1788
+  },
+  {
+    "date": "2026-01-26",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 23403,
+    "miles": 50300,
+    "dev": 1788
+  },
+  {
+    "date": "2026-02-02",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 23522,
+    "miles": 50600,
+    "dev": 1788
+  },
+  {
+    "date": "2026-02-09",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 24041,
+    "miles": 50900,
+    "dev": 1788
+  },
+  {
+    "date": "2026-02-16",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 24500,
+    "miles": 51200,
+    "dev": 1788
+  },
+  {
+    "date": "2026-02-23",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 24884,
+    "miles": 51500,
+    "dev": 1788
+  },
+  {
+    "date": "2026-03-02",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 25186,
+    "miles": 51800,
+    "dev": 1788
+  },
+  {
+    "date": "2026-03-09",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 25413,
+    "miles": 52100,
+    "dev": 1788
+  },
+  {
+    "date": "2026-03-16",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 25572,
+    "miles": 52400,
+    "dev": 1788
+  },
+  {
+    "date": "2026-03-23",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 25675,
+    "miles": 52700,
+    "dev": 1788
+  },
+  {
+    "date": "2026-03-30",
+    "year": 2023,
+    "make": "TOYOTA",
+    "model": "SIENNA FWD HYBRID",
+    "trim": "MINIVAN XLE",
+    "price": 25732,
+    "miles": 53000,
+    "dev": 1788
+  }
+]

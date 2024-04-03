@@ -1,0 +1,1062 @@
+[
+  {
+    "date": "2024-03-25",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19531,
+    "miles": 41000,
+    "dev": 4014
+  },
+  {
+    "date": "2024-04-01",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19467,
+    "miles": 41200,
+    "dev": 4014
+  },
+  {
+    "date": "2024-04-08",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19400,
+    "miles": 41400,
+    "dev": 4014
+  },
+  {
+    "date": "2024-04-15",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19331,
+    "miles": 41600,
+    "dev": 4014
+  },
+  {
+    "date": "2024-04-22",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19258,
+    "miles": 41900,
+    "dev": 4014
+  },
+  {
+    "date": "2024-04-29",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19184,
+    "miles": 42100,
+    "dev": 4014
+  },
+  {
+    "date": "2024-05-06",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19107,
+    "miles": 42300,
+    "dev": 4014
+  },
+  {
+    "date": "2024-05-13",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 19027,
+    "miles": 42500,
+    "dev": 4014
+  },
+  {
+    "date": "2024-05-20",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18945,
+    "miles": 42800,
+    "dev": 4014
+  },
+  {
+    "date": "2024-05-27",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18861,
+    "miles": 43000,
+    "dev": 4014
+  },
+  {
+    "date": "2024-06-03",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18774,
+    "miles": 43200,
+    "dev": 4014
+  },
+  {
+    "date": "2024-06-10",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18684,
+    "miles": 43500,
+    "dev": 4014
+  },
+  {
+    "date": "2024-06-17",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18592,
+    "miles": 43700,
+    "dev": 4014
+  },
+  {
+    "date": "2024-06-24",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18497,
+    "miles": 43900,
+    "dev": 4014
+  },
+  {
+    "date": "2024-07-01",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18398,
+    "miles": 44100,
+    "dev": 4014
+  },
+  {
+    "date": "2024-07-08",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18297,
+    "miles": 44400,
+    "dev": 4014
+  },
+  {
+    "date": "2024-07-15",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18193,
+    "miles": 44600,
+    "dev": 4014
+  },
+  {
+    "date": "2024-07-22",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 18086,
+    "miles": 44800,
+    "dev": 4014
+  },
+  {
+    "date": "2024-07-29",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17978,
+    "miles": 45000,
+    "dev": 4014
+  },
+  {
+    "date": "2024-08-05",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17874,
+    "miles": 45300,
+    "dev": 4014
+  },
+  {
+    "date": "2024-08-12",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17771,
+    "miles": 45500,
+    "dev": 4014
+  },
+  {
+    "date": "2024-08-19",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17663,
+    "miles": 45700,
+    "dev": 4014
+  },
+  {
+    "date": "2024-08-26",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17548,
+    "miles": 45900,
+    "dev": 4014
+  },
+  {
+    "date": "2024-09-02",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17425,
+    "miles": 46200,
+    "dev": 4014
+  },
+  {
+    "date": "2024-09-09",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17292,
+    "miles": 46400,
+    "dev": 4014
+  },
+  {
+    "date": "2024-09-16",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17151,
+    "miles": 46600,
+    "dev": 4014
+  },
+  {
+    "date": "2024-09-23",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 17003,
+    "miles": 46900,
+    "dev": 4014
+  },
+  {
+    "date": "2024-09-30",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 16852,
+    "miles": 47100,
+    "dev": 4014
+  },
+  {
+    "date": "2024-10-07",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 16702,
+    "miles": 47300,
+    "dev": 4014
+  },
+  {
+    "date": "2024-10-14",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 16557,
+    "miles": 47500,
+    "dev": 4014
+  },
+  {
+    "date": "2024-10-21",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 16419,
+    "miles": 47800,
+    "dev": 4014
+  },
+  {
+    "date": "2024-10-28",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 16289,
+    "miles": 48000,
+    "dev": 4014
+  },
+  {
+    "date": "2024-11-04",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 16168,
+    "miles": 48200,
+    "dev": 4014
+  },
+  {
+    "date": "2024-11-11",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 16056,
+    "miles": 48400,
+    "dev": 4014
+  },
+  {
+    "date": "2024-11-18",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15952,
+    "miles": 48700,
+    "dev": 4014
+  },
+  {
+    "date": "2024-11-25",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15849,
+    "miles": 48900,
+    "dev": 4014
+  },
+  {
+    "date": "2024-12-02",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15744,
+    "miles": 49100,
+    "dev": 4014
+  },
+  {
+    "date": "2024-12-09",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15637,
+    "miles": 49400,
+    "dev": 4014
+  },
+  {
+    "date": "2024-12-16",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15532,
+    "miles": 49600,
+    "dev": 4014
+  },
+  {
+    "date": "2024-12-23",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15437,
+    "miles": 49800,
+    "dev": 4014
+  },
+  {
+    "date": "2024-12-30",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15363,
+    "miles": 50000,
+    "dev": 4014
+  },
+  {
+    "date": "2025-01-06",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15316,
+    "miles": 50300,
+    "dev": 4014
+  },
+  {
+    "date": "2025-01-13",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15304,
+    "miles": 50500,
+    "dev": 4014
+  },
+  {
+    "date": "2025-01-20",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15331,
+    "miles": 50700,
+    "dev": 4014
+  },
+  {
+    "date": "2025-01-27",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15398,
+    "miles": 50900,
+    "dev": 4014
+  },
+  {
+    "date": "2025-02-03",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15503,
+    "miles": 51200,
+    "dev": 4014
+  },
+  {
+    "date": "2025-02-10",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15643,
+    "miles": 51400,
+    "dev": 4014
+  },
+  {
+    "date": "2025-02-17",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15814,
+    "miles": 51600,
+    "dev": 4014
+  },
+  {
+    "date": "2025-02-24",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15751,
+    "miles": 51800,
+    "dev": 4014
+  },
+  {
+    "date": "2025-03-03",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15698,
+    "miles": 52100,
+    "dev": 4014
+  },
+  {
+    "date": "2025-03-10",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15655,
+    "miles": 52300,
+    "dev": 4014
+  },
+  {
+    "date": "2025-03-17",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15617,
+    "miles": 52500,
+    "dev": 4014
+  },
+  {
+    "date": "2025-03-24",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15584,
+    "miles": 52800,
+    "dev": 4014
+  },
+  {
+    "date": "2025-03-31",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15552,
+    "miles": 53000,
+    "dev": 4014
+  },
+  {
+    "date": "2025-04-07",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15520,
+    "miles": 53200,
+    "dev": 4014
+  },
+  {
+    "date": "2025-04-14",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15485,
+    "miles": 53400,
+    "dev": 4014
+  },
+  {
+    "date": "2025-04-21",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15443,
+    "miles": 53700,
+    "dev": 4014
+  },
+  {
+    "date": "2025-04-28",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15395,
+    "miles": 53900,
+    "dev": 4014
+  },
+  {
+    "date": "2025-05-05",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15396,
+    "miles": 54100,
+    "dev": 4014
+  },
+  {
+    "date": "2025-05-12",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15522,
+    "miles": 54300,
+    "dev": 4014
+  },
+  {
+    "date": "2025-05-19",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15603,
+    "miles": 54600,
+    "dev": 4014
+  },
+  {
+    "date": "2025-05-26",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15640,
+    "miles": 54800,
+    "dev": 4014
+  },
+  {
+    "date": "2025-06-02",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15635,
+    "miles": 55000,
+    "dev": 4014
+  },
+  {
+    "date": "2025-06-09",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15598,
+    "miles": 55300,
+    "dev": 4014
+  },
+  {
+    "date": "2025-06-16",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15538,
+    "miles": 55500,
+    "dev": 4014
+  },
+  {
+    "date": "2025-06-23",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15462,
+    "miles": 55700,
+    "dev": 4014
+  },
+  {
+    "date": "2025-06-30",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15385,
+    "miles": 55900,
+    "dev": 4014
+  },
+  {
+    "date": "2025-07-07",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15314,
+    "miles": 56200,
+    "dev": 4014
+  },
+  {
+    "date": "2025-07-14",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15255,
+    "miles": 56400,
+    "dev": 4014
+  },
+  {
+    "date": "2025-07-21",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15207,
+    "miles": 56600,
+    "dev": 4014
+  },
+  {
+    "date": "2025-07-28",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15169,
+    "miles": 56800,
+    "dev": 4014
+  },
+  {
+    "date": "2025-08-04",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15134,
+    "miles": 57100,
+    "dev": 4014
+  },
+  {
+    "date": "2025-08-11",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15098,
+    "miles": 57300,
+    "dev": 4014
+  },
+  {
+    "date": "2025-08-18",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15064,
+    "miles": 57500,
+    "dev": 4014
+  },
+  {
+    "date": "2025-08-25",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15027,
+    "miles": 57800,
+    "dev": 4014
+  },
+  {
+    "date": "2025-09-01",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14984,
+    "miles": 58000,
+    "dev": 4014
+  },
+  {
+    "date": "2025-09-08",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14929,
+    "miles": 58200,
+    "dev": 4014
+  },
+  {
+    "date": "2025-09-15",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14863,
+    "miles": 58400,
+    "dev": 4014
+  },
+  {
+    "date": "2025-09-22",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14784,
+    "miles": 58700,
+    "dev": 4014
+  },
+  {
+    "date": "2025-09-29",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14698,
+    "miles": 58900,
+    "dev": 4014
+  },
+  {
+    "date": "2025-10-06",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14610,
+    "miles": 59100,
+    "dev": 4014
+  },
+  {
+    "date": "2025-10-13",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14522,
+    "miles": 59300,
+    "dev": 4014
+  },
+  {
+    "date": "2025-10-20",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14444,
+    "miles": 59600,
+    "dev": 4014
+  },
+  {
+    "date": "2025-10-27",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14376,
+    "miles": 59800,
+    "dev": 4014
+  },
+  {
+    "date": "2025-11-03",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14323,
+    "miles": 60000,
+    "dev": 4014
+  },
+  {
+    "date": "2025-11-10",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14285,
+    "miles": 60200,
+    "dev": 4014
+  },
+  {
+    "date": "2025-11-17",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14262,
+    "miles": 60500,
+    "dev": 4014
+  },
+  {
+    "date": "2025-11-24",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14250,
+    "miles": 60700,
+    "dev": 4014
+  },
+  {
+    "date": "2025-12-01",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14244,
+    "miles": 60900,
+    "dev": 4014
+  },
+  {
+    "date": "2025-12-08",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14246,
+    "miles": 61200,
+    "dev": 4014
+  },
+  {
+    "date": "2025-12-15",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14253,
+    "miles": 61400,
+    "dev": 4014
+  },
+  {
+    "date": "2025-12-22",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14272,
+    "miles": 61600,
+    "dev": 4014
+  },
+  {
+    "date": "2025-12-29",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14304,
+    "miles": 61800,
+    "dev": 4014
+  },
+  {
+    "date": "2026-01-05",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14355,
+    "miles": 62100,
+    "dev": 4014
+  },
+  {
+    "date": "2026-01-12",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14427,
+    "miles": 62300,
+    "dev": 4014
+  },
+  {
+    "date": "2026-01-19",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14518,
+    "miles": 62500,
+    "dev": 4014
+  },
+  {
+    "date": "2026-01-26",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14627,
+    "miles": 62700,
+    "dev": 4014
+  },
+  {
+    "date": "2026-02-02",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14746,
+    "miles": 63000,
+    "dev": 4014
+  },
+  {
+    "date": "2026-02-09",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14872,
+    "miles": 63200,
+    "dev": 4014
+  },
+  {
+    "date": "2026-02-16",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 14998,
+    "miles": 63400,
+    "dev": 4014
+  },
+  {
+    "date": "2026-02-23",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15120,
+    "miles": 63700,
+    "dev": 4014
+  },
+  {
+    "date": "2026-03-02",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15231,
+    "miles": 63900,
+    "dev": 4014
+  },
+  {
+    "date": "2026-03-09",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15330,
+    "miles": 64100,
+    "dev": 4014
+  },
+  {
+    "date": "2026-03-16",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15416,
+    "miles": 64300,
+    "dev": 4014
+  },
+  {
+    "date": "2026-03-23",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15486,
+    "miles": 64600,
+    "dev": 4014
+  },
+  {
+    "date": "2026-03-30",
+    "year": 2020,
+    "make": "FORD",
+    "model": "F150 2WD V6",
+    "trim": "REG CAB 2.7L XL",
+    "price": 15545,
+    "miles": 64800,
+    "dev": 4014
+  }
+]
