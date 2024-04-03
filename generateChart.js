@@ -15,7 +15,7 @@ const vehicleFiles = "vehicleFiles.json";
 
 window.onload = async function () {
   let data = await fetch(vehicleFiles).then(response => response.json());
-  console.log(data);
+  // console.log(data);
 
   parent = document.querySelector("#vehicle");
 
@@ -28,14 +28,17 @@ window.onload = async function () {
 
   document.createElement("div");
 
-  functionGenerateChart("2017-HONDA-ACCORD 4C-4D SEDAN LX.json", 420897);
-  functionGenerateChart(
-    "2020-FORD-F150 2WD V6-REG CAB 2.7L XL.json",
-    447398,
-    2
-  );
-  functionGenerateChart("2023-SUBARU-IMPREZA-4D SEDAN LIMITED.json", 461467, 3);
-  functionGenerateChart("2017-TOYOTA-RAV4 AWD-4D SUV LE.json", 421396, 4);
+  Promise.all([
+    functionGenerateChart("2017-HONDA-ACCORD 4C-4D SEDAN LX.json", 420897),
+    functionGenerateChart(
+      "2020-FORD-F150 2WD V6-REG CAB 2.7L XL.json",
+      447398,
+      2
+    ),
+    functionGenerateChart("2023-SUBARU-IMPREZA-4D SEDAN LIMITED.json", 461467, 3),
+    functionGenerateChart("2017-TOYOTA-RAV4 AWD-4D SUV LE.json", 421396, 4)
+  ])
+
 };
 
 const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
@@ -98,7 +101,7 @@ const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
         }
       });
   
-      console.log(priceTypes, data, "testtt");
+      // console.log(priceTypes, data, "testtt");
     }
   }
 
