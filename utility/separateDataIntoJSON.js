@@ -11,7 +11,7 @@ const data = Fs.readFileSync(`./formattedMMRCSV.json`, 'utf8')
     console.log(z[0])
 
 // for (let i = 0; i<vehicleData.length; i++) {
-//   z.push({date: vehicleData[i][0], year: vehicleData[i][2], make: vehicleData[i][3], model: vehicleData[i][4], trim: vehicleData[i][5], price: vehicleData[i][9], miles: vehicleData[i][10], dev: vehicleData[i][12]})
+  // z.push({date: vehicleData[i][0], year: vehicleData[i][2], make: vehicleData[i][3], model: vehicleData[i][4], trim: vehicleData[i][5], price: vehicleData[i][9], miles: vehicleData[i][10], dev: vehicleData[i][12], makeId: vehicleData[i][6], modelId: vehicleData[i][7], trimId: vehicleData[i][8], kbbVehicleId: ''})
 // }
 
 

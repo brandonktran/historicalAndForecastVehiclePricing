@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-
+    <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
-    <label for="vehicle">Choose a car:</label>
+  <div>
+    <h2>MMR Forecast Auction Data</h2>
+    <label for="vehicle">Vehicle 1:</label>
 
-    <select name="vehicle" id="vehicle">
-    </select>
+    <select name="vehicle" id="vehicle"></select>
+
+    <label for="vehicle2">Vehicle 2:</label>
+
+    <select name="vehicle2" id="vehicle2"></select>
     <div
       id="chartContainer"
       style="height: 370px; width: 100%; margin: 10px"
@@ -16,14 +20,22 @@
       id="chartContainer2"
       style="height: 370px; width: 100%; margin: 10px"
     ></div>
-    <div
+    <!-- <div
       id="chartContainer3"
       style="height: 370px; width: 100%; margin: 10px"
     ></div>
     <div
       id="chartContainer4"
       style="height: 370px; width: 100%; margin: 10px"
-    ></div>
+    ></div> -->
+  </div>
+
+    <div style="margin-top: 50px">
+      <h2>Examples with historical values</h2>
+      <img src="./public/sample.png" style="width: 100%; margin: 10px"></img>
+      <img src="./public/sample2.png" style="width: 100%; margin: 10px"></img>
+    </div>
+
     <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
     <script src="./generateChart.js"></script>
   </body>

@@ -18,7 +18,7 @@ const run = async () => {
       data,
       {
         headers: {
-          api_key: "vz9grae7m85nznsygg8csrar"
+          api_key: ''
         }
       }
     );

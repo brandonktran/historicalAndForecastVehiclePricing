@@ -18,13 +18,21 @@ window.onload = async function () {
   // console.log(data);
 
   parent = document.querySelector("#vehicle");
+  parent2 = document.querySelector("#vehicle2");
 
   for (let i = 0; i < data.length; i++) {
     const option = document.createElement("option");
     option.value = data[i];
-    option.innerText = data[i];
+    option.innerText = data[i].replace('.json', '');
     parent.append(option);
+    const option2 = document.createElement("option");
+    option2.value = data[i];
+    option2.innerText = data[i].replace('.json', '');
+    parent2.append(option2);
   }
+
+  parent.value = '2017-HONDA-ACCORD 4C-4D SEDAN LX.json';
+  parent2.value = '2020-FORD-F150 2WD V6-REG CAB 2.7L XL.json';
 
   document.createElement("div");
 
@@ -54,7 +62,7 @@ const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
     "Trade-In Value Fair": { priceId: 3, data: [] }
   };
 
-  // let data = await fetch(FILE_NAME).then(response => response.json());
+  // let data = await fetch(`./data/${FILE_NAME}`).then(response => response.json());
     let data = await fetch(`https://raw.githubusercontent.com/brandonktran/historicalAndForecastVehiclePricing/main/${FILE_NAME}`).then(response => response.json());
   // https://raw.githubusercontent.com/brandonktran/historicalAndForecastVehiclePricing/main/2017-ACURA-ILX-4D SEDAN ACURAWATCH PLUS.json
   // let errors = [...data]
@@ -86,7 +94,7 @@ const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
   //         credentials: "same-origin", // include, *same-origin, omit
   //         headers: {
   //           "Content-Type": "application/json",
-  // 
+  //  
   //         },
   //         redirect: "follow", // manual, *follow, error
   //         referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
@@ -221,7 +229,20 @@ window.addEventListener("DOMContentLoaded", function () {
   function updateChart(e) {
     e.preventDefault();
     e.stopPropagation();
+    // const chart = document.getElementById('chartContainer');
+    // chart.id = 'loader';
       functionGenerateChart(e.currentTarget.value);
+  }
+});
+
+window.addEventListener("DOMContentLoaded", function () {
+  document.getElementById("vehicle2").addEventListener("change", updateChart, true);
+  function updateChart(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    // const chart = document.getElementById('chartContainer');
+    // chart.id = 'loader';
+      functionGenerateChart(e.currentTarget.value, '', 2);
   }
 });
 
