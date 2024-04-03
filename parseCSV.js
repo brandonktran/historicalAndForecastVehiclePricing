@@ -1,3 +1,5 @@
+//Parses the MMR forecast CSV into JSON array
+
 const Fs = require('fs');
 const CsvReadableStream = require('csv-reader');
 
@@ -14,7 +16,7 @@ inputStream
 			x.push(row)
 	})
 	.on('end', function () {
-		Fs.writeFile("./alphabet.json", JSON.stringify(x), 'utf8', function (err) {
+		Fs.writeFile("./MMRCSV.json", JSON.stringify(x), 'utf8', function (err) {
 			if (err) {
 					return console.log(err);
 			}

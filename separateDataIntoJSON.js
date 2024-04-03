@@ -1,9 +1,11 @@
+//creates MMR JSON file for each vehicle from the CSV and can also format the original JSON CSV file
+
 const Fs = require('fs');
 
 // const z = [];
 const h = {};
 
-const data = Fs.readFileSync(`./data.json`, 'utf8')
+const data = Fs.readFileSync(`./formattedMMRCSV.json`, 'utf8')
     const z = JSON.parse(data);
 
     console.log(z[0])
