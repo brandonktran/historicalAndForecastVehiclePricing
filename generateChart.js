@@ -66,45 +66,45 @@ const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
     // errors[i].x = new Date(errors[i].date);
   }
 
-  if (vehicleId) {
-    for (let i = 0; i < dates.length; i++) {
-      const body = {
-        configuration: {
-          vehicleId: vehicleId
-        },
-        valuationDate: dates[i],
-        // Mileage: 41000,
-        ZipCode: "92841"
-      };
+  // if (vehicleId) {
+  //   for (let i = 0; i < dates.length; i++) {
+  //     const body = {
+  //       configuration: {
+  //         vehicleId: vehicleId
+  //       },
+  //       valuationDate: dates[i],
+  //       // Mileage: 41000,
+  //       ZipCode: "92841"
+  //     };
   
-      const historical = await fetch(
-        "https://vrs.datasolutions.coxautoinc.com/vrs/valuation/values/",
-        {
-          method: "POST", // *GET, POST, PUT, DELETE, etc.
-          mode: "cors", // no-cors, *cors, same-origin
-          // cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
-          credentials: "same-origin", // include, *same-origin, omit
-          headers: {
-            "Content-Type": "application/json",
-            api_key: "vz9grae7m85nznsygg8csrar"
-          },
-          redirect: "follow", // manual, *follow, error
-          referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
-          body: JSON.stringify(body) // body data type must match "Content-Type" header
-        }
-      ).then(response => response.json());
+  //     const historical = await fetch(
+  //       "https://vrs.datasolutions.coxautoinc.com/vrs/valuation/values/",
+  //       {
+  //         method: "POST", // *GET, POST, PUT, DELETE, etc.
+  //         mode: "cors", // no-cors, *cors, same-origin
+  //         // cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
+  //         credentials: "same-origin", // include, *same-origin, omit
+  //         headers: {
+  //           "Content-Type": "application/json",
+  // 
+  //         },
+  //         redirect: "follow", // manual, *follow, error
+  //         referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
+  //         body: JSON.stringify(body) // body data type must match "Content-Type" header
+  //       }
+  //     ).then(response => response.json());
   
-      historical.prices.forEach(x => {
-        if (Object.keys(priceTypes).includes(x.priceTypeDisplay)) {
-          priceTypes[x.priceTypeDisplay].data.push({
-            y: x.baseValue || x.configuredValue,
-            x: new Date(dates[i])
-          });
-        }
-      });
-    }
-          // console.log(priceTypes, data, "testtt");
-  }
+  //     historical.prices.forEach(x => {
+  //       if (Object.keys(priceTypes).includes(x.priceTypeDisplay)) {
+  //         priceTypes[x.priceTypeDisplay].data.push({
+  //           y: x.baseValue || x.configuredValue,
+  //           x: new Date(dates[i])
+  //         });
+  //       }
+  //     });
+  //   }
+  //         // console.log(priceTypes, data, "testtt");
+  // }
 
 
   var chart = new CanvasJS.Chart(`chartContainer${index || ""}`, {
