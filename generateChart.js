@@ -63,7 +63,7 @@ const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
   };
 
   // let data = await fetch(`./data/${FILE_NAME}`).then(response => response.json());
-    let data = await fetch(`https://raw.githubusercontent.com/brandonktran/historicalAndForecastVehiclePricing/main/${FILE_NAME}`).then(response => response.json());
+    let data = await fetch(`https://raw.githubusercontent.com/brandonktran/historicalAndForecastVehiclePricing/main/data/${FILE_NAME}`).then(response => response.json());
   // https://raw.githubusercontent.com/brandonktran/historicalAndForecastVehiclePricing/main/2017-ACURA-ILX-4D SEDAN ACURAWATCH PLUS.json
   // let errors = [...data]
 
@@ -94,7 +94,7 @@ const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
   //         credentials: "same-origin", // include, *same-origin, omit
   //         headers: {
   //           "Content-Type": "application/json",
-  //  
+  //           api_key: ""
   //         },
   //         redirect: "follow", // manual, *follow, error
   //         referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
