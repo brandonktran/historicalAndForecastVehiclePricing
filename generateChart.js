@@ -54,7 +54,9 @@ const functionGenerateChart = async (FILE_NAME, vehicleId, index) => {
     "Trade-In Value Fair": { priceId: 3, data: [] }
   };
 
-  let data = await fetch(FILE_NAME).then(response => response.json());
+  // let data = await fetch(FILE_NAME).then(response => response.json());
+    let data = await fetch(`https://raw.githubusercontent.com/brandonktran/historicalAndForecastVehiclePricing/main/${FILE_NAME}`).then(response => response.json());
+  // https://raw.githubusercontent.com/brandonktran/historicalAndForecastVehiclePricing/main/2017-ACURA-ILX-4D SEDAN ACURAWATCH PLUS.json
   // let errors = [...data]
 
   for (let i = 0; i < data.length; i++) {
